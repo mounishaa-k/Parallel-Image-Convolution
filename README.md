@@ -165,6 +165,9 @@ Utility functions in `hpc.py` also expose:
 
 ---
 
-## 📄 License
+## 📬 Contact
 
-MIT — free to use, modify, and distribute.
+For queries or contributions, reach out at:
+Email: [mounisha.ks9@gmail.com](mounisha.ks9@gmail.com)
+LinkedIn: [mounisha-k](https://www.linkedin.com/in/mounisha-sri-sai-saranya-k-b70128296/).
+
